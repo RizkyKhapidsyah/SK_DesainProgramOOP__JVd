@@ -1,0 +1,11 @@
+KONSTRUKTOR TUNGGAL
+
+Pada saat pembentukan sebuah class, kadangkala perlu dilakukan pemberian nilai awal pada sebuah objek. Hal ini bertujuan
+untuk memastikan bahwa pada sebuah objek tidak memiliki nilai bukan untuk objek tersebut. Sebagai contoh, sisi sebuah
+Bujur Sangkar harusnya memiliki nilai lebih dari 0 atau tidak memiliki nilai yang bersifat karakter (contoh: sisi='sepuluh')
+Untuk mengatasi ini, dapat menggunakan konstruktor.
+
+KONSTRUKTOR DENGAN PARAMETER
+
+Menggunakan konstruktor dengan parameter dapat menentukan secara langsung nilai pada objek. Dengan langkah ini bermanfaat
+untuk meringkas beberapa perintah.

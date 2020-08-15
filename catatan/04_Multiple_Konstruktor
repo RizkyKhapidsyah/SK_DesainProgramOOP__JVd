@@ -1,0 +1,5 @@
+MULTIPLE KONSTRUKTOR
+
+Multiple Konstruktor memiliki lebih dari satu konstruktor pada sebuah class. Bentuk seperti ini disebut juga overloading
+constructor. Syarat pada overloading constructor adalah signature pada setiap konstruktor tidaklah sama. Signature adalah
+informasi untuk membedakan method, seperti nama method, jumlah parameter, tipe data dan nilai kembalian (return value).

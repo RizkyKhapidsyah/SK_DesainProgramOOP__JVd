@@ -1,0 +1,13 @@
+CLASS DAN OBJECT
+
+Class adalah ciri dari object oriented programming. Class merupakan kumpulan dari objek yang sejenis. Sedangkan objek merupakan benda,
+baik secara fisik maupun konseptual. Ciri dari objek adalah memiliki atribut/properti/data (data member) dan method/behavior/function
+(member function).
+
+Atribut adalah variabel-variabel yang menyatakan karakteristik suatu objek. Method adalah fungsi-fungsi yang bertugas untuk memanipulasi
+nilai pada data member. Fungsi yang paling sering ada pada sebuah objek adalah fungsi untuk mengubah dan menginformasikan nilai dari
+data member objek. Method juga digunakan untuk mengkomunikasikan data dalam class dengan lingkungan di luar class. Pengaksesan data
+objek secara langsung tidak diperbolehkan.
+
+Perbedaan antara class dengan objek adalah Class merupakan desain dan objek merupakan perwujudan suatu class. Class bersifat abstrak
+dan objek bersifat konkrit.

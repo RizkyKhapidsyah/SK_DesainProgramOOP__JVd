@@ -1,0 +1,9 @@
+ENKAPSULASI
+
+Enkapsulasi/Pembungkusan, berfungsi untuk melindungi program dan data yang sedang diolah agar tidak diakses secara sembarangan
+oleh program lain. Yang dilindungi adalah variabel dan method dari sebuah class. Sifat dari enkapsulasi yaitu: private, protected
+dan public dengan karakteristiknya masing-masing.
+
+- Private: variabel atau method pada sebuah object/cass tidak dapat diakses oleh object/class yang lain.
+- Protected: variabel atau method pada sebuah class dapat diakses oleh object/class turunannya.
+- Public: berkarakteristik agar variabel atau method pada sebuah object/class dapat diakses oleh object/class yang lain.
